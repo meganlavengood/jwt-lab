@@ -30,3 +30,5 @@ The React JWT demo is a separate step — see the assignment instructions for se
 ## Notes from instructions
 
 What is jsonwebtoken? It's the most popular JWT library for Node.js with over 18 million weekly downloads on npm. It handles creating (signing), verifying, and decoding JWTs. This is the same library that many auth systems use under the hood. It's already listed in package.json — npm install pulls it in.
+
+https://www.jwt.io
