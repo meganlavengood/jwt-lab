@@ -1,3 +1,19 @@
+# GitHub Repo
+
+https://github.com/meganlavengood/jwt-lab
+
+---
+
+# Screenshots
+
+![](screenshots/mod8-1.png)
+
+![](screenshots/mod8-2.png)
+
+![](screenshots/mod8-3.png)
+
+---
+
 # JWT Security Questions
 
 Answer each question in 2-3 sentences. Refer to what you observed in your scripts when possible.
